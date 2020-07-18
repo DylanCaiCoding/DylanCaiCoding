@@ -1,4 +1,4 @@
-### Hi there 👋
+### 一个兴趣使然的程序“工匠”
 
 <!--
 **DylanCaiCoding/DylanCaiCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
