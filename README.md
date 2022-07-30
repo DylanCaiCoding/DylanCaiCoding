@@ -39,6 +39,7 @@ UI 相关：
 
 在[掘金](https://juejin.cn/user/4195392100243000/posts)有对应讲解封装思路的文章：
 
+- [《手把手带你实现西瓜视频的责任链埋点框架》](https://juejin.cn/post/7121735217701715981)
 - [《优雅地结合 Kotlin 特性深度解耦标题栏》](https://juejin.cn/post/7111847446614900767)
 - [《如何更好地使用 Kotlin 语法糖封装工具类》](https://juejin.cn/post/7020988520474869791)
 - [《Kotlin 委托的本质以及 MMKV 的应用》](https://juejin.cn/post/7043843490366619685)
