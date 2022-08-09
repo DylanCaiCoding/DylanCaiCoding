@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DylanCaiCoding)](https://github.com/anuraghazra/github-readme-stats)
 
-**一个兴趣使然的程序“工匠”**。有些完美主义，喜欢封装，对封装有一定个人见解。以下是个人封装的帮助搭建开发框架的开源库。
+**一个兴趣使然的程序“工匠”**。有代码洁癖，喜欢封装，对封装有一定个人见解。以下是个人封装的帮助搭建开发框架的开源库。
 
 UI 相关：
 
