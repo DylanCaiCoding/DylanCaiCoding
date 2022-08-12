@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DylanCaiCoding)](https://github.com/anuraghazra/github-readme-stats)
 
-**一个兴趣使然的程序“工匠”**。有代码洁癖，喜欢封装，对封装有一定个人见解。以下是个人封装的帮助搭建开发框架的开源库。
+**一个兴趣使然的程序“工匠”**。有代码洁癖，喜欢封装，对封装有一定的个人见解，有不少个人原创的封装思路。以下是个人封装的开源库，用于搭建开发框架。
 
 UI 相关：
 
@@ -28,12 +28,12 @@ UI 相关：
 
 工具类相关：
 
-- [Longan](https://github.com/DylanCaiCoding/Longan)，可能是最好用的 Kotlin 工具类集合，目前有超过 500 个好用的方法和属性。
-- [MMKV-KTX](https://github.com/DylanCaiCoding/MMKV-KTX)，用属性委托的方式使用 MMKV，使其更加简洁易用，可替代 SharedPreference。
+- [Longan](https://github.com/DylanCaiCoding/Longan)，可能是最好用的 Kotlin 工具库，目前有超过 500 个好用的方法和属性。
+- [MMKV-KTX](https://github.com/DylanCaiCoding/MMKV-KTX)，用属性委托的方式使用 MMKV，无需初始化，无需传 key 值，支持组件化项目。
 
 埋点相关：
 
-- [Tracker](https://github.com/DylanCaiCoding/Tracker)，基于西瓜视频的责任链埋点思路实现的轻量级埋点框架
+- [Tracker](https://github.com/DylanCaiCoding/Tracker)，基于西瓜视频的责任链埋点思路实现的轻量级埋点框架。
 
 ---
 
