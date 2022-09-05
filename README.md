@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 UI 相关：
 
 - [ViewBindingKTX](https://github.com/DylanCaiCoding/ViewBindingKTX)，最全面的 ViewBinding 工具，支持各种姿势使用 ViewBinding，替代 ButterKnife 或 KAE，可适配 BRVAH。
-- [LoadingStateView](https://github.com/DylanCaiCoding/LoadingStateView)，深度解耦标题栏，解耦加载中、加载失败、空布局等缺省页。
+- [LoadingStateView](https://github.com/DylanCaiCoding/LoadingStateView)，深度解耦标题栏，解耦加载中、加载失败、空布局等缺省页，支持两行代码集成到基类。
 
 工具类相关：
 
