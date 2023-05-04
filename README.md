@@ -1,5 +1,3 @@
-
- 
 <!--
 **DylanCaiCoding/DylanCaiCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
@@ -29,7 +27,11 @@ UI 相关：
 工具类相关：
 
 - [Longan](https://github.com/DylanCaiCoding/Longan)，可能是最好用的 Kotlin 工具库，目前有超过 500 个好用的方法和属性。
-- [MMKV-KTX](https://github.com/DylanCaiCoding/MMKV-KTX)，用属性委托的方式使用 MMKV，无需初始化，无需传 key 值，支持组件化项目。
+
+KV 存储相关：
+
+- [MMKV-KTX](https://github.com/DylanCaiCoding/MMKV-KTX)，最好用的 MMKV 工具，可以确保类型安全，无需声明 key 常量。
+- [DataStoreKTX](https://github.com/DylanCaiCoding/DataStoreKTX)，最好用的 DataStore 工具，可以确保类型安全，无需声明 key 常量。
 
 埋点相关：
 
@@ -39,6 +41,7 @@ UI 相关：
 
 在[掘金](https://juejin.cn/user/4195392100243000/posts)有对应讲解封装思路的文章：
 
+- [《如何利用 Kotlin 特性封装 DataStore》](https://juejin.cn/post/7228859400902115389)
 - [《如何更简洁地实现富文本 Span》](https://juejin.cn/post/7126510374114820132)
 - [《手把手带你实现西瓜视频的责任链埋点框架》](https://juejin.cn/post/7121735217701715981)
 - [《优雅地结合 Kotlin 特性深度解耦标题栏》](https://juejin.cn/post/7111847446614900767)
