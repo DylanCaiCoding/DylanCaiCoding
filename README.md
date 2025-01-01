@@ -30,8 +30,12 @@ UI 相关：
 
 KV 存储相关：
 
-- [MMKV-KTX](https://github.com/DylanCaiCoding/MMKV-KTX)，最好用的 MMKV 工具，可以确保类型安全，无需声明 key 常量。
+- [MMKV-KTX](https://github.com/DylanCaiCoding/MMKV-KTX)，最好用的 MMKV 工具，可以确保类型安全，无需声明 key 常量，支持 map 用法。
 - [DataStoreKTX](https://github.com/DylanCaiCoding/DataStoreKTX)，最好用的 DataStore 工具，可以确保类型安全，无需声明 key 常量。
+
+网络相关：
+
+- [MultiBaseUrls](https://github.com/DylanCaiCoding/MultiBaseUrls)，用注解让 Retrofit 同时支持多个 baseUrl 以及动态改变 baseUrl.
 
 埋点相关：
 
